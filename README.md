@@ -2,6 +2,11 @@
 -----------------------
 
 ㊗ **Character Recognition** using keras model with datasets & PQt5 <br>
-![preview](_11_Character_recognition/preview/preview.gif)<br>
+![preview](preview/preview.gif)<br>
 
 ----------------------
+
+### output
+
+![output](preview/output.png)
+
